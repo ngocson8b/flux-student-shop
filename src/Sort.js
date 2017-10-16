@@ -7,9 +7,9 @@ export default class Item extends React.Component {
       return(
         <div style={{
           border: '2px solid #F00',
-          background: '#0D',
+          background: '#0DD',
           padding: '10px',
-          marginBottom: '10px'
+          // marginBottom: '10px'
 
         }}>
           {item}

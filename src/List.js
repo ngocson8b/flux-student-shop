@@ -11,7 +11,7 @@ export default class List extends React.Component {
       });
 
       return (
-        <div style={{background: '#FF0'}}>{list_items}</div>
+        <div style={{background: '#F0D'}}>{list_items}</div>
       );
     });
     return (
